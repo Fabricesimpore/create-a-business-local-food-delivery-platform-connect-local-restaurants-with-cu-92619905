@@ -1,0 +1,24 @@
+{
+  "name": "create-a-business-local-food-delivery-platform-connect-local-restaurants-with-cu-92619905",
+  "version": "1.0.0",
+  "description": "Create a business: Local Food Delivery Platform - Connect local restaurants with customers\n\n**AI Learning Insights Applied:**\n• Invest in a user-friendly app or website interface\n• Establish strong relationships with local restaurants\n• Implement a robust customer service system\n\n**Warning Signals to Monitor:**\n⚠️ Decreasing number of orders over time\n⚠️ Increasing number of customer complaints\n⚠️ Decreasing restaurant partnerships",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stripe/stripe-js": "^2.0.0",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
